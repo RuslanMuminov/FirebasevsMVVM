@@ -17,13 +17,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        binding.tvMute.setOnClickListener {
-            binding.tvUnMute.visibility = View.VISIBLE
-        }
-        binding.tvUnMute.setOnClickListener {
-            binding.tvMute.visibility = View.GONE
-        }
-
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
