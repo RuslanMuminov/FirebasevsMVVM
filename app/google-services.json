@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712483232702",
+    "firebase_url": "https://fir-vs-mvvm-default-rtdb.firebaseio.com",
+    "project_id": "fir-vs-mvvm",
+    "storage_bucket": "fir-vs-mvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712483232702:android:a34602d6964ce4b822f7ef",
+        "android_client_info": {
+          "package_name": "com.example.firebasevsmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712483232702-hslb2o6o2pnmkr82cuvkhe44jmlq572v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEVR_wk6h8qGmdLaUxpR5A6hrr7US410"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712483232702-hslb2o6o2pnmkr82cuvkhe44jmlq572v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
