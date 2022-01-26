@@ -3,4 +3,6 @@
     <string name="unMute">UNMUTE</string>
     <string name="mute">MUTE</string>
     <string name="followers">5370 ta obunachi</string>
+    <string name="message">Message content</string>
+    <string name="hour">02:30 AM</string>
 </resources>
